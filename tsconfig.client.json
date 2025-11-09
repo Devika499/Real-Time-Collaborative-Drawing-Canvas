@@ -1,0 +1,14 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "module": "ES2020",
+    "outDir": "./client",
+    "rootDir": "./client",
+    "moduleResolution": "bundler",
+    "baseUrl": "./client",
+    "verbatimModuleSyntax": true
+  },
+  "include": ["client/**/*"],
+  "exclude": ["node_modules", "dist", "server"]
+}
+
