@@ -2,6 +2,8 @@
 
 A multi-user drawing application where multiple people can draw simultaneously on the same canvas with real-time synchronization.
 
+https://real-time-collaborative-drawing-canvas-2sko.onrender.com/
+
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -13,8 +15,8 @@ A multi-user drawing application where multiple people can draw simultaneously o
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd collaborative-canvas
+git clone https://github.com/Devika499/Real-Time-Collaborative-Drawing-Canvas.git
+cd Drawing canvas
 ```
 
 2. Install dependencies:
@@ -150,8 +152,4 @@ collaborative-canvas/
 - **Documentation**: 1 hour
 
 **Total**: ~12 hours
-
-## 📄 License
-
-MIT
 
